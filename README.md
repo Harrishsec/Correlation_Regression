@@ -21,16 +21,19 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # PROGRAM :
-DEVELOPED BY : RABI BASKAR PRABURAJAN
-
-REG NO : 24001812
-
+```
+DEVELOPED BY :Harrish .P 
+REG NO :24009722
+```
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 # OUTPUT :
 ![EXP 3 OUTPUT](https://github.com/user-attachments/assets/1a23460b-4325-429d-94d6-797242d49e14)
 
 # RESULT :
-The Correleation and regression for data analysis of objects from feeder using probability distribution and calculated.
+```
+The Correleation and regression for data analysis of objects from feeder
+using probability distribution and calculated.
+```
 
 
